@@ -1,5 +1,5 @@
 import { FC, MouseEventHandler, useCallback} from 'react';
-import { HStack, Spacer, Button, Container, Heading, VStack, Text,  HTMLButtonElement, Image } from '@chakra-ui/react';
+import { HStack, Spacer, Button, Container, Heading, VStack, Text, Image } from '@chakra-ui/react';
 
 const Connected: FC = () => {
 
