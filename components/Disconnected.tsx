@@ -25,7 +25,7 @@ const Disconnected: FC = () => {
                 spacing={20}
             >
                 <Heading 
-                    colors='white'  
+                    color='white'  
                     size='3xl' 
                     noOfLines={2} 
                     textAlign='center'
