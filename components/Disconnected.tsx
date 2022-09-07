@@ -2,7 +2,7 @@ import { FC, MouseEventHandler, useCallback} from 'react';
 import { ArrowForwardIcon } from '@chakra-ui/icons';
 import { useWalletModal } from '@solana/wallet-adapter-react-ui';
 import { useWallet }    from '@solana/wallet-adapter-react';
-import { HStack, Spacer, Button, Container, Heading, VStack, Text,  HTMLButtonElement } from '@chakra-ui/react';
+import { HStack, Spacer, Button, Container, Heading, VStack, Text } from '@chakra-ui/react';
 
 const Disconnected: FC = () => {
 
